@@ -31,4 +31,4 @@ npm install --save-dev jest mocha chai
 
 - jest.config.js
 - mocha.opts
-  -- `__tests__` / `test`
+- -> `__tests__` / `test`

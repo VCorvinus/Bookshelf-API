@@ -510,4 +510,6 @@ dist
 ###############################################################
 
 
-pw
+pattern.md
+package-lock.json
+package.json

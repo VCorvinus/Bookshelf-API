@@ -22,13 +22,13 @@ npm install cors
 
 npm install --save-dev jest mocha chai
 
-- "test-jest": "jest",
-  "test-mocha": "mocha",
-  "test": "npm run test-jest && npm run test-mocha"
+- `"test-jest": "jest",`
+  `"test-mocha": "mocha",`
+  `"test": "npm run test-jest && npm run test-mocha"`
 - npx jest
 - npx mocha
 - npm test
 
 - jest.config.js
 - mocha.opts
-  -- **tests** / test
+  -- `__tests__` / `test`
